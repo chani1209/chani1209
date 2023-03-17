@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chani1209&show_icons=true&theme=dracula)
+
+
 <!--
 **chani1209/chani1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
