@@ -1,6 +1,8 @@
 <div align=center>
 ![chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chani1209&show_icons=true&theme=dracula)  
-  <br>  
+</div>
+<br>  
+<div align=center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chani1209&layout=Demo&theme=dracula)  
 </div>
 
